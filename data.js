@@ -32937,8 +32937,7 @@ var movies = [
       "summary": "NOTORIOUS is the story of Christopher Wallace. Through raw talent and sheer determination, Wallace transforms himself from Brooklyn street hustler (once selling crack to pregnant women) to one of the greatest rappers of all time; THE NOTORIOUS B.I.G. Follow his meteoric rise to fame and his refusal to succumb to expectations - redefining our notion of \"The American Dream.",
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
-    },
-    
+    }, 
     {
       "title": "Non-Stop",
       "year": 2014,
