@@ -32938,23 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Non-Stop",
-      "year": 2014,
-      "categories": [
-        "Action",
-        "Mystery",
-        "Thriller"
-      ],
-      "imdbId": "tt2024469",
-      "imdbRating": 7,
-      "runtime": 106,
-      "language": "English",
-      "youtubeId": "jiHDJ19A3dk",
-      "summary": "Bill Marks, a former cop dealing with his daughter's death by drinking, is now a federal air marshal. While on a flight from New York to London, Marks gets a text telling him that unless 150 million dollars is transferred to an offshore account, someone will die every 20 minutes. Can he find the terrorist in time and save everyone?",
-      "smallThumbnail": "http://i3.ytimg.com/vi/jiHDJ19A3dk/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/jiHDJ19A3dk/maxresdefault.jpg"
-    },
+   
     {
       "title": "No Strings Attached",
       "year": 2011,
