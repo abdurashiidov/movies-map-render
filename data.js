@@ -32938,23 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "No Strings Attached",
-      "year": 2011,
-      "categories": [
-        "Action",
-        "Comedy",
-        "Romance"
-      ],
-      "imdbId": "tt1411238",
-      "imdbRating": 6.2,
-      "runtime": 108,
-      "language": "English",
-      "youtubeId": "BvDR-0qNJuQ",
-      "summary": "Occasionally in the 15 years since summer camp, Adam and Emma cross paths. When he discovers that an ex-girlfriend is living with his dad, he gets drunk, calls every woman in his cell phone contact list, and ends up passed out naked in her living room. By this time, she's a medical resident in L.A. and he's a gopher on a \"Glee\"-like TV series, hoping to be a writer. She guards her emotions (calling her father's funeral \"a thing\"), so after a quick shag in the moments she has before leaving for the hospital, she asks if he wants a no-strings-attached, sex-only relationship, without romance or complications. A prescription for fun or for disaster?",
-      "smallThumbnail": "http://i3.ytimg.com/vi/BvDR-0qNJuQ/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/BvDR-0qNJuQ/maxresdefault.jpg"
-    },
+  
     {
       "title": "No Country for Old Men",
       "year": 2007,
