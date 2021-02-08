@@ -32939,25 +32939,6 @@ var movies = [
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     },
     {
-      "title": "Nothing But the Truth",
-      "year": 2008,
-      "categories": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "imdbId": "tt1073241",
-      "imdbRating": 7.2,
-      "runtime": 108,
-      "language": "English",
-      "youtubeId": "FnR5lX6hZlc",
-      "summary": "Thinking Pulitzer Prize and hoping to bring down a President, D.C. political columnist Rachel Armstrong writes that the President ignored the findings of a covert CIA operative when ordering air strikes against Venezuela. Rachel names the agent, Erica Van Doren, a woman whose young daughter is in Rachel's son's class at school. The government moves quickly to force Rachel to name her source. She's jailed for contempt when she refuses. She won't change her mind, and the days add up. Chaos descends on Van Doren's life as well. First Amendment versus national security, marriage and motherhood versus separation. What's the value of a principle?",
-      "smallThumbnail": "http://i3.ytimg.com/vi/FnR5lX6hZlc/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/FnR5lX6hZlc/maxresdefault.jpg"
-    },
-    {
       "title": "Northern Soul",
       "year": 2014,
       "categories": [
