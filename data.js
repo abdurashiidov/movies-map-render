@@ -32938,24 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "No Country for Old Men",
-      "year": 2007,
-      "categories": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbId": "tt0477348",
-      "imdbRating": 8.1,
-      "runtime": 122,
-      "language": "English",
-      "youtubeId": "38A__WT3-o0",
-      "summary": "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/38A__WT3-o0/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/38A__WT3-o0/maxresdefault.jpg"
-    },
+   
     {
       "title": "Nitro Circus: The Movie",
       "year": 2012,
