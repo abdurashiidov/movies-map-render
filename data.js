@@ -32938,23 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Nitro Circus: The Movie",
-      "year": 2012,
-      "categories": [
-        "Action",
-        "Comedy",
-        "Documentary"
-      ],
-      "imdbId": "tt1815852",
-      "imdbRating": 6.7,
-      "runtime": 0,
-      "language": "English",
-      "youtubeId": "MH1Y79FW06Y",
-      "summary": "Travis Pastrana and his tight-knit, highly-skilled, adrenaline-addicted friends bring their impossible, ridiculous, insane and hysterical adventures to the big screen for the first time.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/MH1Y79FW06Y/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/MH1Y79FW06Y/maxresdefault.jpg"
-    },
+   
     {
       "title": "Ninja Assassin",
       "year": 2009,
