@@ -32938,24 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Ninja Assassin",
-      "year": 2009,
-      "categories": [
-        "Action",
-        "Crime",
-        "Fantasy",
-        "Thriller"
-      ],
-      "imdbId": "tt1186367",
-      "imdbRating": 6.4,
-      "runtime": 99,
-      "language": "English",
-      "youtubeId": "NhYH26KTNbQ",
-      "summary": "Trained since childhood to be a lethal killer, Raizo has since turned his back on the Ozunu clan that raised him and now seeks revenge for their heartless murders. Teaming up with Europol investigator Mika, Raizo steadily butchers his enemies while inching ever closer to the long-awaited bloody reunion with his former master.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/NhYH26KTNbQ/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/NhYH26KTNbQ/maxresdefault.jpg"
-    },
+    
     {
       "title": "Nim's Island",
       "year": 2008,
