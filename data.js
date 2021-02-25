@@ -32938,23 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Night Moves",
-      "year": 2013,
-      "categories": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbId": "tt2043933",
-      "imdbRating": 6,
-      "runtime": 112,
-      "language": "English",
-      "youtubeId": "s7-VqKLYZks",
-      "summary": "Josh and Dena, two young environmental activists, are planning a large scale act to force the world to think about what they're doing to the environment. They pull in Harmon, a man with a sketchy past, to help them pull off their big plan. However, unforeseen consequences bring a whole host of guilt, paranoia and other problems, and their ultimate act will change themselves more than the world around them.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/s7-VqKLYZks/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/s7-VqKLYZks/maxresdefault.jpg"
-    },
+   
     {
       "title": "Night at the Museum: Secret of the Tomb",
       "year": 2014,
