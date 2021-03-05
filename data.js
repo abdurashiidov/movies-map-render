@@ -32938,24 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Nightcrawler",
-      "year": 2014,
-      "categories": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbId": "tt2872718",
-      "imdbRating": 7.9,
-      "runtime": 118,
-      "language": "English",
-      "youtubeId": "u1uP_8VJkDQ",
-      "summary": "NIGHTCRAWLER is a thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of freelance camera crews who film crashes, fires, murder and other mayhem, Lou muscles into the cut-throat, dangerous realm of nightcrawling - where each police siren wail equals a possible windfall and victims are converted into dollars and cents. Aided by Rene Russo as Nina, a veteran of the blood-sport that is local TV news, Lou blurs the line between observer and participant to become the star of his own story.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/u1uP_8VJkDQ/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/u1uP_8VJkDQ/maxresdefault.jpg"
-    },
+    
     {
       "title": "Night Train to Lisbon",
       "year": 2013,
