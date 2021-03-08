@@ -32938,25 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Nim's Island",
-      "year": 2008,
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "imdbId": "tt0410377",
-      "imdbRating": 6,
-      "runtime": 96,
-      "language": "English",
-      "youtubeId": "yVkrPH48k_I",
-      "summary": "Nim Rusoe is a girl who joins her father, a scientist, when he does research on marine life on an island. It's just the two of them but she spends her time making friends with all the animals she encounters, chatting on the computer and reading the adventure books of Alex Rover. When her father goes to do some research but when a storm strikes the island he doesn't come back, she gets worried and frightened. She then e-mails Alex Rover hoping that he will come but what she doesn't know is that Alex Rover is a woman who is agoraphobic and germaphobic. But her creation comes to life and eggs her to go. Unfortunately she has never gone anywhere before and is denied her necessities like her sanitary gel by the customs officer at the airport. In the meantime, Nim tries to be strong while waiting for Alex to arrive.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/yVkrPH48k_I/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/yVkrPH48k_I/maxresdefault.jpg"
-    },
+   
     {
       "title": "Nightcrawler",
       "year": 2014,
