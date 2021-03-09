@@ -32938,24 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Night Train to Lisbon",
-      "year": 2013,
-      "categories": [
-        "Action",
-        "Mystery",
-        "Romance",
-        "Thriller"
-      ],
-      "imdbId": "tt1654523",
-      "imdbRating": 6.8,
-      "runtime": 111,
-      "language": "English",
-      "youtubeId": "9Ds5L7qS85s",
-      "summary": "About an aging Swiss professor of classical languages who, after a chance encounter with a Portuguese woman, quits his job and travels to Lisbon in the hope of discovering the fate of a certain author, a doctor and poet who fought against Portuguese dictator Antonio de Oliveira Salazar.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/9Ds5L7qS85s/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/9Ds5L7qS85s/maxresdefault.jpg"
-    },
+   
     {
       "title": "Night Moves",
       "year": 2013,
