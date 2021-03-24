@@ -32938,16 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Night at the Museum: Secret of the Tomb",
-      "year": 2014,
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
+
       "imdbId": "tt2692250",
       "imdbRating": 6.2,
       "runtime": 98,
