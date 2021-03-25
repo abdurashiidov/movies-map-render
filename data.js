@@ -32939,15 +32939,7 @@ var movies = [
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
 
-      "imdbId": "tt2692250",
-      "imdbRating": 6.2,
-      "runtime": 98,
-      "language": "English",
-      "youtubeId": "KMKk7Dn__-Y",
-      "summary": "At the Museum of Natural History, there's a new exhibit being unveiled. Larry Daley, who manages the night exhibit where the exhibits come to life because of the Tablet of Ahkmenrah, is in charge of the presentation. But when the exhibits go awry, Larry finds himself in trouble. He learns the Tablet is corroding so he does some research and learns that Cecil, the former museum guard, was at the site when the Tablet was discovered. He tells Larry they were warned if they remove it could mean the end. Larry realizes it means the end of the magic. He talks to Ahkmenrah who says that he doesn't know anything. Only his father the Pharaoh knows the Tablet's secrets. He learns that the Pharaoh was sent to the London museum. So he convinces Dr. McPhee, the museum curator, to help send him to London. He takes Ahkmenrah with him but some of the others tag along, like Teddy Roosevelt, Attila, Octavius, and Jedediah.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/KMKk7Dn__-Y/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/KMKk7Dn__-Y/maxresdefault.jpg"
-    },
+     
     {
       "title": "Night at the Museum",
       "year": 2006,
