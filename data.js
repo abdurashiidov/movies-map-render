@@ -32939,7 +32939,6 @@ var movies = [
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
 
-     
     {
       "title": "Night at the Museum",
       "year": 2006,
