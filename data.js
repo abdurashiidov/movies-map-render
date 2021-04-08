@@ -32938,25 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Next",
-      "year": 2007,
-      "categories": [
-        "Action",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "imdbId": "tt0435705",
-      "imdbRating": 6.2,
-      "runtime": 96,
-      "language": "English",
-      "youtubeId": "OwIFRm7sy8E",
-      "summary": "Las Vegas showroom magician Cris Johnson has a secret which torments him: he can see a few minutes into the future. Sick of the examinations he underwent as a child and the interest of the government and medical establishment in his power, he lies low under an assumed name in Vegas, performing cheap tricks and living off small-time gambling \"winnings.\" But when a terrorist group threatens to detonate a nuclear device in Los Angeles, government agent Callie Ferris must use all her wiles to capture Cris and convince him to help her stop the cataclysm.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/OwIFRm7sy8E/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/OwIFRm7sy8E/maxresdefault.jpg"
-    },
+
     {
       "title": "Never Let Me Go",
       "year": 2010,
