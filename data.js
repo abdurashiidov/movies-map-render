@@ -32938,25 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Night at the Museum",
-      "year": 2006,
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "imdbId": "tt0477347",
-      "imdbRating": 6.4,
-      "runtime": 108,
-      "language": "English",
-      "youtubeId": "d2GHoKLJ2_k",
-      "summary": "In New York, unemployed and divorced Larry Daley is a complete loser. His son Nick is very disappointed with his father who is going to be evicted. Larry accepts the job of night watchman in the Museum of Natural History and takes the place of three old security guards that have just retired in order to raise some money and pay his bills. On his first shift, Larry soon realizes that everything at the museum is not as it seems as the statues begin to come to life after the sun sets. The Museum transforms into complete chaos with the inexperienced Larry in charge as he learns that an old Egyptian stone that came to the Museum in 1950 brings these statues to life until dawn. When Larry brings his son to spend a night with him, the three old guards break into the Museum to try to steal the magical stone. Larry organizes all the historic characters to help him stop the criminals and save the museum.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/d2GHoKLJ2_k/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/d2GHoKLJ2_k/maxresdefault.jpg"
-    },
+  
     {
       "title": "Next Friday",
       "year": 2000,
