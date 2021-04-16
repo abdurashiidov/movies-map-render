@@ -32938,24 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Never Let Me Go",
-      "year": 2010,
-      "categories": [
-        "Action",
-        "Drama",
-        "Romance",
-        "Sci-Fi"
-      ],
-      "imdbId": "tt1334260",
-      "imdbRating": 7.2,
-      "runtime": 103,
-      "language": "English",
-      "youtubeId": "sXiRZhDEo8A",
-      "summary": "As children, Ruth, Kathy and Tommy spend their childhood at a seemingly idyllic English boarding school. As they grow into young adults, they find that they have to come to terms with the strength of the love they feel for each other, while preparing themselves for the haunting reality that awaits them.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/sXiRZhDEo8A/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/sXiRZhDEo8A/maxresdefault.jpg"
-    },
+   
     {
       "title": "Never Back Down",
       "year": 2008,
