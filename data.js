@@ -32938,22 +32938,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/kDDv6pAbN_U/maxresdefault.jpg"
     }, 
-    {
-      "title": "Next Friday",
-      "year": 2000,
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
-      "imdbId": "tt0195945",
-      "imdbRating": 6.1,
-      "runtime": 98,
-      "language": "English",
-      "youtubeId": "mKepqz19Qb0",
-      "summary": "Debo has escaped from prison and is looking to get revenge on Craig. So Craig's dad takes him to Rancho Cucamonga to hide out with his Uncle Elroy and cousin Day-Day, who moved to the suburbs after winning the lottery. But once he gets there, Craig and Day-Day have a set of suburban misadventures that make his South Central experiences look tame.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/mKepqz19Qb0/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/mKepqz19Qb0/maxresdefault.jpg"
-    },
+   
     {
       "title": "Next",
       "year": 2007,
