@@ -32922,24 +32922,6 @@ var movies = [
    
   
     {
-      "title": "Now You See Me",
-      "year": 2013,
-      "categories": [
-        "Action",
-        "Crime",
-        "Mystery",
-        "Thriller"
-      ],
-      "imdbId": "tt1670345",
-      "imdbRating": 7.3,
-      "runtime": 115,
-      "language": "English",
-      "youtubeId": "KzJNYYkkhzc",
-      "summary": "Four magicians each answer a mysterious summons to an obscure address with secrets inside. A year later, they are the Four Horsemen, big time stage illusionists who climax their sold out Las Vegas show with a bank apparently robbed for real. This puts agents Dylan Rhodes of the FBI and Alma Dray of Interpol on the case to find out how they did it. However, this mystery proves difficult to solve even with the insights of the professional illusion exposer, Thaddeus Bradley. What follows is a bizarre investigation where nothing is what it seems with illusions, dark secrets and hidden agendas galore as all involved are reminded of a great truth in this puzzle: the closer you look, the less you see.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/KzJNYYkkhzc/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/KzJNYYkkhzc/maxresdefault.jpg"
-    },
-    {
       "title": "Notorious",
       "year": 2009,
       "categories": [
