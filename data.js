@@ -32919,25 +32919,7 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/aUD_KyOujq8/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/aUD_KyOujq8/maxresdefault.jpg"
     },
-    {
-      "title": "O Brother, Where Art Thou?",
-      "year": 2000,
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Crime",
-        "Music"
-      ],
-      "imdbId": "tt0190590",
-      "imdbRating": 7.8,
-      "runtime": 107,
-      "language": "English",
-      "youtubeId": "n9UlbxlM5nE",
-      "summary": "Loosely based on Homer's \"Odyssey,\" the movie deals with the picaresque adventures of Ulysses Everett McGill and his companions Delmar and Pete in 1930s Mississipi. Sprung from a chain gang and trying to reach Everett's home to recover the buried loot of a bank heist they are confronted by a series of strange characters--among them sirens, a cyclops, bank robber George \"Baby Face\" Nelson (very annoyed by that nickname), a campaigning governor and his opponent, a KKK lynch mob, and a blind prophet who warns the trio that \"the treasure you seek shall not be the treasure you find.",
-      "smallThumbnail": "http://i3.ytimg.com/vi/n9UlbxlM5nE/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/n9UlbxlM5nE/maxresdefault.jpg"
-    },
+   
     {
       "title": "Nymphomaniac: Vol. II",
       "year": 2013,
