@@ -32919,7 +32919,6 @@ var movies = [
       "smallThumbnail": "http://i3.ytimg.com/vi/aUD_KyOujq8/hqdefault.jpg",
       "bigThumbnail": "http://i3.ytimg.com/vi/aUD_KyOujq8/maxresdefault.jpg"
     },
-   
     {
       "title": "Notorious",
       "year": 2009,
