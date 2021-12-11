@@ -32920,22 +32920,7 @@ var movies = [
       "bigThumbnail": "http://i3.ytimg.com/vi/aUD_KyOujq8/maxresdefault.jpg"
     },
    
-    {
-      "title": "Nymphomaniac: Vol. II",
-      "year": 2013,
-      "categories": [
-        "Action",
-        "Drama"
-      ],
-      "imdbId": "tt2382009",
-      "imdbRating": 6.7,
-      "runtime": 123,
-      "language": "English",
-      "youtubeId": "jY05rcPrAss",
-      "summary": "Joe continues to tell to Seligman the story of her life. Joe lives with Jerôme and their son Marcel and out of the blue, she loses sexual sensation in intercourse. Joe seeks kinky sex, perversions and sadomasochism expecting to retrieve her sex drive. Jerôme leaves home with Marcel and gives his son to a foster house for adoption. Then Joe is sent to therapy by her gynecologist but she does not admit that she is addicted to sex. Meanwhile Seligman tells Joe that he is virgin and helps her to understand her actions. Joe believes that Seligman is her friend, but is he?",
-      "smallThumbnail": "http://i3.ytimg.com/vi/jY05rcPrAss/hqdefault.jpg",
-      "bigThumbnail": "http://i3.ytimg.com/vi/jY05rcPrAss/maxresdefault.jpg"
-    },
+  
     {
       "title": "Now You See Me",
       "year": 2013,
